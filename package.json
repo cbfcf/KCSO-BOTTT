@@ -1,0 +1,16 @@
+{
+  "name": "department-management-bot",
+  "version": "2.0.0",
+  "description": "Department management Discord bot with Components V2, tickets, moderation, promotions and infractions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "check": "node --check index.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1"
+  }
+}
